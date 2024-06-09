@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is kobo and I'm a developer, from Morocco </h2>
+<h2 align="left">Hi 👋! My name is Mohammed and I'm a developer, from Morocco </h2>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kobo25&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
