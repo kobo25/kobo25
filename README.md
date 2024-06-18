@@ -10,12 +10,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kobo25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=kobo25&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+ 
 ###
 <div align="center">
   <a href="https://open.spotify.com/user/31ts6wofzloh7crgebx23heu3cfe">
