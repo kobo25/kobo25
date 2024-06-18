@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hi is Mohammed and I'm a developer, from Morocco </h2>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hi my name is Mohammed and I'm a developer, from Morocco </h2>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![](https://github-readme-stats.vercel.app/api?username=kobo25&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
